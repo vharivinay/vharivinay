@@ -24,7 +24,11 @@
 ### 📕 Latest thoughts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Pixeltober, N7 Day and more.](https://naturalfreakuency.wordpress.com/2019/11/21/pixeltober-n7-day-and-more/)
+- [Fog](https://naturalfreakuency.wordpress.com/2019/08/06/fog/)
+- [Kepler and Opportunity](https://naturalfreakuency.wordpress.com/2019/02/23/kepler-and-opportunity/)
+- [The Portal](https://naturalfreakuency.wordpress.com/2018/12/15/the-portal/)
+- [How my visit to CERN was everything and more than I expected.](https://naturalfreakuency.wordpress.com/2018/08/03/61/)
 <!-- BLOG-POST-LIST:END -->
 
 
