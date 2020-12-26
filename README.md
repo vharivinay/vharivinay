@@ -14,9 +14,9 @@
 
 ### Contacts
 
-[<img align="left" alt="M87K452b | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][gmail]
-[<img align="left" alt="M87K452b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="M87K452b | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="M87K452b | Gmail" width="22px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png />][gmail]
+[<img align="left" alt="M87K452b | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
+[<img align="left" alt="M87K452b | Instagram" width="22px" src="https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg" />][instagram]
 
 <br />
 
