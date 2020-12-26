@@ -12,6 +12,15 @@
 - ⚡ Fun fact: Aquaman is supercavitating through water at mach 2!
 <br />
 
+## My Projects
+### 1. Python - Programming
+### 2. Python - Data processing, Explortory data analysis and data visulisation
+### 3. Python - Machine Learning, Deep learning and AI
+### 4. Matlab - Masters Thesis - Postprocessing of topology optimized geometries
+### 5. Kotlin - Android Development
+
+<br />
+
 ### Contacts:
 
 [<img align="left" alt="M87K452b | Gmail" width="22px" src="/icons/gmail.svg"/>][gmail]
@@ -24,7 +33,9 @@
 ### Languages and Tools
 
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="MATLAB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" /><img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="MATLAB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
+<img align="left" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Overleaf" width="30px" src="https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg" />
