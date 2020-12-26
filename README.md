@@ -12,7 +12,7 @@
 - ⚡ Fun fact: Aquaman is supercavitating through water at mach 2!
 <br />
 
-## My Projects
+## Projects
 ### 1. Python - Programming
 ### 2. Python - Data processing, Explortory data analysis and data visulisation
 ### 3. Python - Machine Learning, Deep learning and AI
