@@ -1,4 +1,6 @@
 ### Hello there! 
+
+**I am an aspiring engineer exploring the fascinating world of science and technology and working towards being an active participant in the moving frontier of scientific and technological development. I am driven by curiosity and the sheer joy of discovery.**
 <!--
 **M87K452b/M87K452b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
