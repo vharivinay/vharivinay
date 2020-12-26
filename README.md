@@ -12,11 +12,12 @@
 - ⚡ Fun fact: Aquaman is supercavitating through water at mach 2!
 <br />
 
-### Contacts
+### Contacts:
 
 [<img align="left" alt="M87K452b | Gmail" width="22px" src="/icons/gmail.svg"/>][gmail]
 [<img align="left" alt="M87K452b | LinkedIn" width="22px" src="/icons/LI-In-Bug.png" />][linkedin]
 [<img align="left" alt="M87K452b | Instagram" width="22px" src="/icons/instagram.svg" />][instagram]
+[<img align="left" alt="M87K452b | Blog" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />][website]
 
 <br />
 
@@ -32,7 +33,7 @@
 <img align="left" alt="Overleaf" width="30px" src="https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg" />
 <br />
 
-### 📕 Latest thoughts
+### 📕 My thoughts
 
 <!-- BLOG-POST-LIST:START -->
 - [Pixeltober, N7 Day and more.](https://naturalfreakuency.wordpress.com/2019/11/21/pixeltober-n7-day-and-more/)
