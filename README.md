@@ -12,6 +12,12 @@
 - ⚡ Fun fact: Aquaman is supercavitating through water at mach 2!
 <br />
 
+### Contacts
+
+[<img align="left" alt="M87K452b | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="M87K452b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="M87K452b | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <br />
 
 ### Languages and Tools
@@ -39,4 +45,7 @@
 
 
 
-[website]: https://codeSTACKr.com
+[website]: https://naturalfreakuency.wordpress.com
+[instagram]: https://www.instagram.com/stranger_quark/
+[linkedin]: https://www.linkedin.com/in/vharivinay/
+[gmail]: mailto:vhari.vinay.2924@gmail.com
