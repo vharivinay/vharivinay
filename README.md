@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning as much as possible.
 - 👯 I’m looking to collaborate on projects with modelling and simulations of all kinds of things!
 - 💬 Talk to me about star wars and mass effect! (and any other interesting stuff)
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Aquaman is supercavitating through water at mach 2!
 <br />
 
