@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on projects with modelling and simulations of all kinds of things!
 - 💬 Talk to me about star wars and mass effect! (and any other interesting stuff)
 - ⚡ Fun fact: Aquaman is supercavitating through water at mach 2!
-<br />
+--- 
 
 ## Projects
 ### 1. Python - Programming
@@ -19,7 +19,7 @@
 ### 4. [Matlab - Masters Thesis - Postprocessing of topology optimized geometries](https://github.com/M87K452b/master-thesis-liu)
 ### 5. [Kotlin - Android Development](https://github.com/M87K452b/android-dev-w-kotlin/)
 
-<br />
+---
 
 ### Contacts:
 
@@ -28,7 +28,7 @@
 [<img align="left" alt="M87K452b | Instagram" width="22px" src="/icons/instagram.svg" />][instagram]
 [<img align="left" alt="M87K452b | Blog" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />][website]
 
-<br />
+---
 
 ### Languages and Tools
 
@@ -43,7 +43,7 @@
 <!--
 <img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 -->
-<br />
+---
 
 ### 📕 My thoughts
 
@@ -55,7 +55,7 @@
 - [How my visit to CERN was everything and more than I expected.](https://naturalfreakuency.wordpress.com/2018/08/03/61/)
 <!-- BLOG-POST-LIST:END -->
 
-
+---
 
 
 [website]: https://naturalfreakuency.wordpress.com
