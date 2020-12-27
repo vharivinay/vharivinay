@@ -58,6 +58,6 @@
 
 
 [website]: https://naturalfreakuency.wordpress.com
-[instagram]: https://www.instagram.com/stranger_quark/
-[linkedin]: https://www.linkedin.com/in/vharivinay/
+[instagram]: https://www.instagram.com/stranger_quark
+[linkedin]: https://www.linkedin.com/in/vharivinay
 [gmail]: mailto:vhari.vinay.2924@gmail.com
