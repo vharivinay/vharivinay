@@ -26,7 +26,7 @@
 [<img align="left" alt="M87K452b | Gmail" width="22px" src="/icons/gmail.svg"/>][gmail]
 [<img align="left" alt="M87K452b | LinkedIn" width="22px" src="/icons/LI-In-Bug.png" />][linkedin]
 [<img align="left" alt="M87K452b | Instagram" width="22px" src="/icons/instagram.svg" />][instagram]
-[<img align="left" alt="M87K452b | Blog" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />][website]  
+[<img align="left" alt="M87K452b | Blog" width="22px" src="/icons/wordpress.svg" />][website]  
 
 ### Languages and Tools
 
