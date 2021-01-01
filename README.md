@@ -23,10 +23,10 @@
 
 ### Contacts:
 
-[<img align="left" alt="M87K452b | Gmail" width="22px" src="https://github.com/M87K452b/M87K452b/tree/main/icons/gmail.svg"/>][gmail]
-[<img align="left" alt="M87K452b | LinkedIn" width="22px" src="https://github.com/M87K452b/M87K452b/tree/main/icons/LI-In-Bug.png" />][linkedin]
-[<img align="left" alt="M87K452b | Instagram" width="22px" src="https://github.com/M87K452b/M87K452b/tree/main/icons/instagram.svg" />][instagram]
-[<img align="left" alt="M87K452b | Blog" width="22px" src="https://github.com/M87K452b/M87K452b/tree/main/icons/wordpress.svg" />][website]  
+[<img align="left" alt="M87K452b | Gmail" width="22px" src="https://raw.githubusercontent.com/M87K452b/M87K452b/797d94578e336e0386e82a8097c412b06c7f3e8f/icons/gmail.svg"/>][gmail]
+[<img align="left" alt="M87K452b | LinkedIn" width="22px" src="https://raw.githubusercontent.com/M87K452b/M87K452b/797d94578e336e0386e82a8097c412b06c7f3e8f/icons/LI-In-Bug.png"/>][linkedin]
+[<img align="left" alt="M87K452b | Instagram" width="22px" src="https://raw.githubusercontent.com/M87K452b/M87K452b/797d94578e336e0386e82a8097c412b06c7f3e8f/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="M87K452b | Blog" width="22px" src="https://raw.githubusercontent.com/M87K452b/M87K452b/797d94578e336e0386e82a8097c412b06c7f3e8f/icons/wordpress.svg"/>][website]  
 
 <br />
 
