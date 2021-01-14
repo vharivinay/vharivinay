@@ -21,7 +21,7 @@
 
 ---
 
-### Contacts:
+### Contacts and Socials
 
 [<img align="left" style="margin:10px" alt="M87K452b | Gmail" width="22px" src="https://github.com/M87K452b/M87K452b/blob/main/icons/gmail.svg"/>][gmail]
 [<img align="left" style="margin:10px" alt="M87K452b | LinkedIn" width="22px" src="https://github.com/M87K452b/M87K452b/blob/main/icons/LI-In-Bug.png"/>][linkedin]
