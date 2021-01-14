@@ -26,7 +26,7 @@
 [<img align="left" style="margin:10px" alt="M87K452b | Gmail" width="22px" src="https://github.com/M87K452b/M87K452b/blob/main/icons/gmail.svg"/>][gmail]
 [<img align="left" style="margin:10px" alt="M87K452b | LinkedIn" width="22px" src="https://github.com/M87K452b/M87K452b/blob/main/icons/LI-In-Bug.png"/>][linkedin]
 [<img align="left" style="margin:10px" alt="M87K452b | Instagram" width="22px" src="https://github.com/M87K452b/M87K452b/blob/main/icons/instagram.svg"/>][instagram]
-[<img align="left" style="margin:10px" alt="M87K452b | Instagram" width="22px" src="https://github.com/M87K452b/M87K452b/blob/main/icons/youtube.png"/>][Youtube]
+[<img align="left" style="margin:10px" alt="M87K452b | Instagram" width="22px" src="https://github.com/M87K452b/M87K452b/blob/main/icons/youtube_social_circle_red.png"/>][Youtube]
 [<img align="left" style="margin:10px" alt="M87K452b | Blog" width="22px" src="https://github.com/M87K452b/M87K452b/blob/main/icons/wordpress.svg"/>][website]  
 
 <br />
