@@ -12,7 +12,7 @@
 --- 
 
 ## Projects
-### 1. [Python - Programming](https://github.com/M87K452b/Python-projects)
+### 1. [Maths and Scientific Computing](https://github.com/M87K452b/Python-projects)
 ### 2. [Python - Data processing, Explortory data analysis and data visulisation](https://github.com/M87K452b/python-eda-viz)
 ### 3. [Python - Machine Learning, Deep learning and AI](https://github.com/M87K452b/all-things-ML-DL-AI)
 ### 4. [Matlab - Masters Thesis - Postprocessing of topology optimized geometries](https://github.com/M87K452b/master-thesis-liu)
