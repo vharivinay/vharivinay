@@ -7,17 +7,17 @@
 - 🔭 I’m currently working on my masters thesis.
 - 🌱 I’m currently learning as much as possible.
 - 👯 I’m looking to collaborate on projects with modelling and simulations of all kinds of things!
-- 💬 Talk to me about star wars and mass effect! (and any other interesting stuff)
+- 💬 Talk to me about star wars, mass effect, maths and physics!
 - ⚡ Fun fact: Aquaman is supercavitating through water at mach 2!
 --- 
 
 ## Projects
 ### 1. [Maths and Scientific Computing](https://github.com/M87K452b/Python-projects)
-### 2. [Python - Data processing, Explortory data analysis and data visulisation](https://github.com/M87K452b/python-eda-viz)
-### 3. [Python - Machine Learning, Deep learning and AI](https://github.com/M87K452b/all-things-ML-DL-AI)
-### 4. [Matlab - Masters Thesis - Postprocessing of topology optimized geometries](https://github.com/M87K452b/master-thesis-liu)
+### 2. [Data processing, Explortory data analysis and data visulisation - Python](https://github.com/M87K452b/python-eda-viz)
+### 3. [Machine Learning, Deep learning and AI - Python](https://github.com/M87K452b/all-things-ML-DL-AI)
+### 4. [Masters Thesis - Postprocessing of topology optimized geometries - Matlab](https://github.com/M87K452b/master-thesis-liu)
 * **Work In Progress** - So, currenty Private.
-### 5. [Kotlin - Android Development](https://github.com/M87K452b/android-dev-w-kotlin/)
+### 5. [Android Development - Kotlin](https://github.com/M87K452b/android-dev-w-kotlin/)
 
 ---
 
