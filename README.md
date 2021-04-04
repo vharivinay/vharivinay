@@ -15,9 +15,10 @@
 ### [Maths and Scientific Computing](https://github.com/M87K452b/Python-projects)
 ### [Data processing, Explortory data analysis and data visulisation - Python](https://github.com/M87K452b/python-eda-viz)
 ### [Machine Learning, Deep learning and AI - Python](https://github.com/M87K452b/all-things-ML-DL-AI)
-### [Masters Thesis - Postprocessing of topology optimized geometries - Matlab](https://github.com/M87K452b/postprocessing-topopt)
 ### [Android Development - Kotlin](https://github.com/M87K452b/android-dev-w-kotlin/)
 
+## Master Thesis
+### [Postprocessing of topology optimized geometries - Matlab](https://github.com/M87K452b/postprocessing-topopt)
 ---
 
 ### Contacts and Socials
