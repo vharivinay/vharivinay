@@ -4,7 +4,7 @@
 <!--
 **M87K452b/M87K452b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently seeking out PhD opportunitues in my areas of intrest.
+- 🔭 I’m currently seeking out PhD opportunitues in my areas of interest.
 - 🌱 I’m currently learning as much as possible.
 - 👯 I’m looking to collaborate on projects with modelling and simulations of all kinds of things!
 - 💬 Talk to me about star wars, mass effect, maths and physics!
