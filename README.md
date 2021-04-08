@@ -20,9 +20,9 @@
 ---
 
 ## Learning
-###[C]()
-###[Java]()
-###[Processing]()
+### [C](https://github.com/M87K452b/learning-c)
+### [Java]()
+### [Processing]()
 
 ---
 
