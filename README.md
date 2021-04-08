@@ -19,15 +19,16 @@
 
 ---
 
+## Master Thesis
+### [Postprocessing of topology optimized geometries - Matlab](https://github.com/M87K452b/postprocessing-topopt)
+
+---
+
 ## Learning
 ### [C](https://github.com/M87K452b/learning-c)
 ### [Java](https://github.com/M87K452b/learning-java)
 ### [Processing - Python-mode]()
 
----
-
-## Master Thesis
-### [Postprocessing of topology optimized geometries - Matlab](https://github.com/M87K452b/postprocessing-topopt)
 ---
 
 ### Contacts and Socials
