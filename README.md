@@ -21,8 +21,8 @@
 
 ## Learning
 ### [C](https://github.com/M87K452b/learning-c)
-### [Java]()
-### [Processing]()
+### [Java](https://github.com/M87K452b/learning-java)
+### [Processing - Python-mode]()
 
 ---
 
