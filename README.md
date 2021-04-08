@@ -17,6 +17,15 @@
 ### [Machine Learning, Deep learning and AI - Python](https://github.com/M87K452b/all-things-ML-DL-AI)
 ### [Android Development - Kotlin](https://github.com/M87K452b/android-dev-w-kotlin/)
 
+---
+
+## Learning
+###[C]()
+###[Java]()
+###[Processing]()
+
+---
+
 ## Master Thesis
 ### [Postprocessing of topology optimized geometries - Matlab](https://github.com/M87K452b/postprocessing-topopt)
 ---
