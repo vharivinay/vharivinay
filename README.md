@@ -27,9 +27,10 @@
 ## Learning
 
 ### [Processing - Python-mode](https://github.com/M87K452b/learning-processing-py-mode)
+<!----
 ### [C](https://github.com/M87K452b/learning-c)
 ### [Java](https://github.com/M87K452b/learning-java)
-
+---->
 ---
 
 ### Contacts and Socials
