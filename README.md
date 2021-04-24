@@ -3,6 +3,7 @@
 **I am an aspiring engineer exploring the fascinating world of science and technology and working towards being an active participant in the moving frontier of scientific and technological development. I am driven by curiosity and the sheer joy of discovery.**
 
 **M87K452b/M87K452b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 - 🔭 I’m currently seeking out PhD opportunitues in my areas of interest.
 - 🌱 I’m currently learning Julia for scientific computing.
@@ -10,7 +11,7 @@
 - 💬 Talk to me about star wars, mass effect, maths and physics!
 - ⚡ Fun fact: Aquaman is supercavitating through water at mach 2!
 --- 
--->
+
 
 ## Projects
 ### [Maths and Scientific Computing](https://github.com/M87K452b/Python-projects)
