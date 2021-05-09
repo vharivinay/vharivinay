@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently seeking out PhD opportunitues in my areas of interest.
 -->
-- 🌱 I’m currently learning Julia for scientific computing.
+- 🌱 I’m currently learning Julia for scientific computing, Processing and the P5js library.
 - 👯 I’m looking to collaborate on projects with modelling and simulations of all kinds of things!
 - 💬 Talk to me about star wars, mass effect, maths and physics!
 - ⚡ Fun fact: Aquaman is supercavitating through water at mach 2!
@@ -33,6 +33,7 @@
 ## Learning
 
 ### [Processing - Python-mode](https://github.com/M87K452b/learning-processing-py-mode)
+### [Creative Coding (NYUx DMEDX6063)](https://github.com/M87K452b/creative-codingitp-nyu-edx)
 <!----
 ### [C](https://github.com/M87K452b/learning-c)
 ### [Java](https://github.com/M87K452b/learning-java)
