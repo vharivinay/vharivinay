@@ -31,7 +31,9 @@
 <!--
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M87K452b&theme=blue-green)
 -->
+![Harivinay's Github stats](https://github-readme-stats.vercel.app/api?username=M87K452b&show_icons=true&theme=dracula) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M87K452b&layout=compact&theme=dracula&langs_count=8)
 <!--
 ## Learning
 
@@ -42,7 +44,7 @@
 ### [Java](https://github.com/M87K452b/learning-java)
 ---->
 
-
+<!--
 ### Languages and Tools
 
 <img align="left" style="margin:10px" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -53,7 +55,7 @@
 <img align="left" style="margin:10px" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
 <img align="left" style="margin:10px" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img aling="left" style="margin:10px" alt="Latex" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
-<!--
+
 <img align="left" style="margin:10px" alt="Overleaf" width="30px" src="https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg" />
 <img align="left" style="margin:10px" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img aling="left" alt="Markdown" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
@@ -84,8 +86,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=M87K452b&show_icons=true)
 
 [website]: https://naturalfreakuency.wordpress.com
 [instagram]: https://www.instagram.com/stranger_quark
