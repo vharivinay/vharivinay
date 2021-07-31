@@ -17,16 +17,16 @@
 --- 
 -->
 
+## Master Thesis
+### [Postprocessing of topology optimized geometries - Matlab](https://github.com/M87K452b/postprocessing-topopt)
+---
+
 ## Projects
 ### [Maths and Scientific Computing](https://github.com/M87K452b/Python-projects)
 ### [Data processing, Explortory data analysis and data visulisation - Python](https://github.com/M87K452b/python-eda-viz)
 ### [Machine Learning, Deep learning and AI - Python](https://github.com/M87K452b/all-things-ML-DL-AI)
 ### [Android Development - Kotlin](https://github.com/M87K452b/android-dev-w-kotlin/)
 
----
-
-## Master Thesis
-### [Postprocessing of topology optimized geometries - Matlab](https://github.com/M87K452b/postprocessing-topopt)
 ---
 <!--
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M87K452b&theme=blue-green)
