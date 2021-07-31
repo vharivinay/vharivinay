@@ -31,9 +31,9 @@
 <!--
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M87K452b&theme=blue-green)
 -->
-![Harivinay's Github stats](https://github-readme-stats.vercel.app/api?username=M87K452b&show_icons=true&theme=dracula) 
+![Harivinay's Github stats](https://github-readme-stats.vercel.app/api?username=M87K452b&show_icons=true&theme=tokyonight&count_private=true) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M87K452b&layout=compact&theme=dracula&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M87K452b&layout=compact&theme=tokyonight&langs_count=8&count_private=true)
 <!--
 ## Learning
 
