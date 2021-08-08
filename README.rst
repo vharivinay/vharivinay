@@ -75,8 +75,8 @@ Contacts and Socials
 
 
 
-.. 📕 My thoughts
-.. ~~~~~~~~~~~~~~
+📕 My thoughts
+~~~~~~~~~~~~~~
 
 .. BLOG-POST-LIST:START>
 -`Pi Day, Decisions, and busy thoughts. <https://naturalfreakuency.wordpress.com/2021/04/28/pi-day-decisions-and-busy-thoughts/>`_
