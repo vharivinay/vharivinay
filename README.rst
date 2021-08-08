@@ -54,11 +54,11 @@ Contacts and Socials
 |Y|_     |L|_
 
 .. |Y| image:: ./icons/youtube_social_circle_red.png
-    :width: 40px
+    :width: 40
     :alt: Y
 
 .. |L| image:: ./icons/LI-In-Bug.png
-    :width: 40px
+    :width: 40
     :alt: L
 
 
