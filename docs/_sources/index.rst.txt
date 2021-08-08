@@ -3,18 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to M87K452b's documentation!
+Welcome to M87K452b's Profile!
 ====================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Github Readme Profile
 
 .. include:: ../README.rst
 
-Indices and tables
-==================
+.. 
+   Indices and tables
+   ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`
