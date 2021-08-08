@@ -75,8 +75,8 @@ Contacts and Socials
 
 
 
-📕 My thoughts
-~~~~~~~~~~~~~~
+.. 📕 My thoughts
+.. ~~~~~~~~~~~~~~
 
 .. BLOG-POST-LIST:START 
 
