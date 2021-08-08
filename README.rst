@@ -78,6 +78,10 @@ Contacts and Socials
 .. 📕 My thoughts
 .. ~~~~~~~~~~~~~~
 
+.. raw:: markdown
+    <!--BLOG-POST-LIST:START> 
+    
+    <!--BLOG-POST-LIST:END> 
 .. BLOG-POST-LIST:START 
 
 .. BLOG-POST-LIST:END
