@@ -33,7 +33,7 @@ Projects
 `Android Development - Kotlin`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. _Android Development - Kotlin: (https://github.com/M87K452b/android-dev-w-kotlin/)
+.. _Android Development - Kotlin: https://github.com/M87K452b/android-dev-w-kotlin/
 
 ----------------------
 
@@ -86,8 +86,10 @@ Contacts and Socials
     BLOG-POST-LIST:END
 ..
 
-.. _`W`: https://naturalfreakuency.wordpress.com
-.. _`I`: https://www.instagram.com/stranger_quark
-.. _`Y`: https://www.youtube.com/channel/UCICL35fS_pE1Z_RKKspeXQw
-.. _`L`: https://www.linkedin.com/in/vharivinay
-.. _`G`: mailto:vhari.vinay.2924@gmail.com
+..
+    .. _`W`: https://naturalfreakuency.wordpress.com
+    .. _`I`: https://www.instagram.com/stranger_quark
+    .. _`Y`: https://www.youtube.com/channel/UCICL35fS_pE1Z_RKKspeXQw
+    .. _`L`: https://www.linkedin.com/in/vharivinay
+    .. _`G`: mailto:vhari.vinay.2924@gmail.com
+..
