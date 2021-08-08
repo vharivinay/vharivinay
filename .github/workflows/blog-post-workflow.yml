@@ -12,3 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://naturalfreakuency.wordpress.com/feed"
+          readme_path: "./README.rst"
