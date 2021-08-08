@@ -51,15 +51,27 @@ Projects
 
 Contacts and Socials
 ~~~~~~~~~~~~~~~~~~~~
-|Y|_     |L|_
+|GMail| |LinkedIn| |YouTube| |Wordpress| |Instagram|
 
-.. |Y| image:: ./icons/youtube_social_circle_red.png
-    :width: 40
-    :alt: Y
+.. |GMail| image:: https://img.icons8.com/color/48/000000/gmail-new.png
+    :width: 48px
+    :target: mailto:vhari.vinay.2924@gmail.com
 
-.. |L| image:: ./icons/LI-In-Bug.png
-    :width: 40
-    :alt: L
+.. |LinkedIn| image:: https://img.icons8.com/fluency/48/000000/linkedin.png
+    :width: 48px
+    :target: https://www.linkedin.com/in/vharivinay
+
+.. |YouTube| image:: https://img.icons8.com/color/48/000000/youtube-play.png
+    :width: 48px
+    :target: https://www.youtube.com/channel/UCICL35fS_pE1Z_RKKspeXQw
+
+.. |Wordpress| image:: https://img.icons8.com/fluency/48/000000/wordpress.png
+    :width: 48px
+    :target: https://naturalfreakuency.wordpress.com
+
+.. |Instagram| image:: https://img.icons8.com/fluency/48/000000/instagram-new.png
+    :width: 48px
+    :target: https://www.instagram.com/stranger_quark
 
 
 
@@ -75,7 +87,7 @@ Contacts and Socials
 ..
 
 .. _`W`: https://naturalfreakuency.wordpress.com
-.. _`Instagram`: https://www.instagram.com/stranger_quark
+.. _`I`: https://www.instagram.com/stranger_quark
 .. _`Y`: https://www.youtube.com/channel/UCICL35fS_pE1Z_RKKspeXQw
 .. _`L`: https://www.linkedin.com/in/vharivinay
 .. _`G`: mailto:vhari.vinay.2924@gmail.com
