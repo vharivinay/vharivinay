@@ -36,9 +36,14 @@ Projects
 .. _Android Development - Kotlin: https://github.com/M87K452b/android-dev-w-kotlin/
 
 `Processing in Python mode`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _Processing in Python mode: https://github.com/M87K452b/learning-processing-py-mode
+
+`P5.js Projects - JavaScript`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. _P5.js Projects - JavaScript: https://github.com/M87K452b/Catalogue/blob/main/P5js-projects.md
 
 ----------------------
 
