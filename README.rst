@@ -17,7 +17,7 @@ Projects
 `Maths and Scientific Computing`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. _Maths and Scientific Computing: https://github.com/M87K452b/Python-projects
+.. _Maths and Scientific Computing: https://github.com/M87K452b/Catalogue/blob/main/python-projects.md
 
 `Data processing, Exploratory data analysis and data visualization - Python`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -28,7 +28,7 @@ Projects
 `Machine Learning, Deep learning and AI - Python`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. _Machine Learning, Deep learning and AI - Python: https://github.com/M87K452b/all-things-ML-DL-AI
+.. _Machine Learning, Deep learning and AI - Python: https://github.com/M87K452b/Catalogue/blob/main/all-things-ML-DL-AI.md
 
 `Android Development - Kotlin`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
