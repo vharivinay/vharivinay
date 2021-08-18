@@ -35,6 +35,11 @@ Projects
 
 .. _Android Development - Kotlin: https://github.com/M87K452b/android-dev-w-kotlin/
 
+`Processing in Python mode`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. _Processing in Python mode: https://github.com/M87K452b/learning-processing-py-mode
+
 ----------------------
 
 |Stats|
