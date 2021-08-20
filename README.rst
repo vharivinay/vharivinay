@@ -54,9 +54,6 @@ Projects
 .. |Stats| image:: https://github-readme-stats.vercel.app/api?username=M87K452b&show_icons=true&theme=tokyonight&count_private=true/
     :alt: My stats
 
-.. |TopLanguages| image:: https://github-readme-stats.vercel.app/api/top-langs/?username=M87K452b&layout=compact&theme=tokyonight&langs_count=8&count_private=true/
-    :alt: Top Languages
-
 -----------------------
 
 Contacts and Socials
