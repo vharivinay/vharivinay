@@ -12,8 +12,8 @@ Master Thesis
 
 --------------------
 
-Projects
---------
+Some Interesting things I've done
+---------------------------------
 `Maths and Scientific Computing`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
