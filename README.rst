@@ -1,5 +1,4 @@
 |Greeting|
-==========
 
 .. |Greeting| image:: https://readme-typing-svg.herokuapp.com?lines=Hello+there!
     :alt: Greeting
