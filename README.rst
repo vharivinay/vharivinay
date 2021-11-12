@@ -1,12 +1,13 @@
 |Greeting|
+==========
 
 .. |Greeting| image:: https://readme-typing-svg.herokuapp.com?lines=Hello+there!
     :alt: Greeting
 
 **I am Hari. I like to write code, make stuff and learn new things.** 
 
-Master Thesis
--------------
+Graduate Thesis Code
+--------------------
 `Postprocessing of topology optimized geometries`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
