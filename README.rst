@@ -62,7 +62,7 @@ Some Interesting things I've done
 
 Contacts and Socials
 ~~~~~~~~~~~~~~~~~~~~
-|GMail| |LinkedIn| |YouTube| |Wordpress| |Instagram|
+|GMail| |LinkedIn| |YouTube| |Wordpress| 
 
 .. |GMail| image:: https://img.icons8.com/color/48/000000/gmail-new.png
     :width: 48px
@@ -80,7 +80,7 @@ Contacts and Socials
     :width: 48px
     :target: https://naturalfreakuency.wordpress.com
 
-.. |Instagram| image:: https://img.icons8.com/fluency/48/000000/instagram-new.png
+.. .. |Instagram| image:: https://img.icons8.com/fluency/48/000000/instagram-new.png
     :width: 48px
     :target: https://www.instagram.com/stranger_quark
 
