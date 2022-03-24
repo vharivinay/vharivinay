@@ -11,7 +11,7 @@ Graduate Thesis Code
 `Postprocessing of topology optimized geometries`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. _Postprocessing of topology optimized geometries: https://github.com/M87K452b/postprocessing-topopt
+.. _Postprocessing of topology optimized geometries: https://github.com/vharivinay/postprocessing-topopt
 
 --------------------
 
@@ -20,42 +20,42 @@ Some Interesting things I've done
 `Maths and Scientific Computing`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. _Maths and Scientific Computing: https://github.com/M87K452b/Catalogue/blob/main/python-projects.md
+.. _Maths and Scientific Computing: https://github.com/vharivinay/Catalogue/blob/main/python-projects.md
 
 `Data processing, Exploratory data analysis and data visualization - Python`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-.. _Data processing, Exploratory data analysis and data visualization - Python: https://github.com/M87K452b/python-eda-viz
+.. _Data processing, Exploratory data analysis and data visualization - Python: https://github.com/vharivinay/python-eda-viz
 
 `Machine Learning, Deep learning and AI - Python`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. _Machine Learning, Deep learning and AI - Python: https://github.com/M87K452b/Catalogue/blob/main/all-things-ML-DL-AI.md
+.. _Machine Learning, Deep learning and AI - Python: https://github.com/vharivinay/Catalogue/blob/main/all-things-ML-DL-AI.md
 
 `Android Development - Kotlin`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. _Android Development - Kotlin: https://github.com/M87K452b/android-dev-w-kotlin/
+.. _Android Development - Kotlin: https://github.com/vharivinay/android-dev-w-kotlin/
 
 `Processing in Python mode`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. _Processing in Python mode: https://github.com/M87K452b/learning-processing-py-mode
+.. _Processing in Python mode: https://github.com/vharivinay/learning-processing-py-mode
 
 `P5.js Projects - JavaScript`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. _P5.js Projects - JavaScript: https://github.com/M87K452b/Catalogue/blob/main/P5js-projects.md
+.. _P5.js Projects - JavaScript: https://github.com/vharivinay/Catalogue/blob/main/P5js-projects.md
 
 ----------------------
 
 |TopLanguages|
 
-.. .. |Stats| image:: https://github-readme-stats.vercel.app/api?username=M87K452b&show_icons=true&theme=tokyonight&count_private=true/
+.. .. |Stats| image:: https://github-readme-stats.vercel.app/api?username=vharivinay&show_icons=true&theme=tokyonight&count_private=true/
     :alt: My stats
     
-.. |TopLanguages| image:: https://github-readme-stats.vercel.app/api/top-langs/?username=M87K452b&layout=compact&theme=tokyonight&langs_count=7&count_private=true/
+.. |TopLanguages| image:: https://github-readme-stats.vercel.app/api/top-langs/?username=vharivinay&layout=compact&theme=tokyonight&langs_count=7&count_private=true/
     :alt: Top Languages
 
 -----------------------

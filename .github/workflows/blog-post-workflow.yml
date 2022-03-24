@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: "0 * * * *" # Runs every hour, on the hour
+    - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   update-readme-with-blog:
@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: M87K452b/blog-post-workflow@forRST
+      - uses: vharivinay/blog-post-workflow@forRST
         with:
-          feed_list: "https://naturalfreakuency.wordpress.com/feed"
+          feed_list: 'https://naturalfreakuency.wordpress.com/feed'
           readme_path: ./README.rst
