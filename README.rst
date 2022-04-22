@@ -98,6 +98,16 @@ Posts
 
 .. BLOG-POST-LIST:START>
 
+- `Pi Day, Decisions, and busy thoughts. <https://naturalfreakuency.wordpress.com/2021/04/28/pi-day-decisions-and-busy-thoughts/>`_
+
+- `A reminder of change, constancy and chaos. <https://naturalfreakuency.wordpress.com/2021/01/05/a-reminder-of-change-constancy-and-chaos/>`_
+
+- `Pixeltober, N7 Day and more. <https://naturalfreakuency.wordpress.com/2019/11/21/pixeltober-n7-day-and-more/>`_
+
+- `Fog <https://naturalfreakuency.wordpress.com/2019/08/06/fog/>`_
+
+- `Kepler and Opportunity <https://naturalfreakuency.wordpress.com/2019/02/23/kepler-and-opportunity/>`_
+
 .. BLOG-POST-LIST:END>
 
 
