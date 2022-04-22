@@ -11,5 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: vharivinay/blog-post-workflow@forRST
         with:
-          feed_list: 'https://vharivinay.github.io/feed'
+          feed_list: 'https://naturalfreakquency.wordpress.com'
           readme_path: ./README.rst
