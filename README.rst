@@ -93,7 +93,8 @@ Contacts and Socials
     :width: 48px
     :target: https://www.instagram.com/stranger_quark
 
-
+Posts
+~~~~~
 
 .. BLOG-POST-LIST:START>
 
