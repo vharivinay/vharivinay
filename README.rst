@@ -98,15 +98,15 @@ Posts
 
 .. BLOG-POST-LIST:START>
 
-- `Pi Day, Decisions, and busy thoughts. <https://naturalfreakuency.wordpress.com/2021/04/28/pi-day-decisions-and-busy-thoughts/>`_
+- `Bash Scripting <https:/vharivinay.github.io/linux/bash_scripting/>`_
 
-- `A reminder of change, constancy and chaos. <https://naturalfreakuency.wordpress.com/2021/01/05/a-reminder-of-change-constancy-and-chaos/>`_
+- `Flocking Simulation <https:/vharivinay.github.io/simulations/flocking/>`_
 
-- `Pixeltober, N7 Day and more. <https://naturalfreakuency.wordpress.com/2019/11/21/pixeltober-n7-day-and-more/>`_
+- `Flow Field <https:/vharivinay.github.io/generative/flowfiled/>`_
 
-- `Fog <https://naturalfreakuency.wordpress.com/2019/08/06/fog/>`_
+- `Mandelbrot Set <https:/vharivinay.github.io/generative/mandelbrot/>`_
 
-- `Kepler and Opportunity <https://naturalfreakuency.wordpress.com/2019/02/23/kepler-and-opportunity/>`_
+- `Julia Set <https:/vharivinay.github.io/generative/julia_set_glsl/>`_
 
 .. BLOG-POST-LIST:END>
 
