@@ -40,11 +40,11 @@ I have been working on a website for a little while now, its still work in progr
 ### 📕 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bash Scripting](https:/vharivinay.github.io/linux/bash_scripting/)
-- [Flocking Simulation](https:/vharivinay.github.io/simulations/flocking/)
-- [Flow Field](https:/vharivinay.github.io/generative/flowfiled/)
-- [Mandelbrot Set](https:/vharivinay.github.io/generative/mandelbrot/)
-- [Julia Set](https:/vharivinay.github.io/generative/julia_set_glsl/)
+- [Bash Scripting](https://vharivinay.github.io/linux/bash_scripting/)
+- [Flocking Simulation](https://vharivinay.github.io/simulations/flocking/)
+- [Flow Field](https://vharivinay.github.io/generative/flowfiled/)
+- [Mandelbrot Set](https://vharivinay.github.io/generative/mandelbrot/)
+- [Julia Set](https://vharivinay.github.io/generative/julia_set_glsl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
