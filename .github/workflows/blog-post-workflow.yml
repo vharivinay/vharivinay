@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: vharivinay/blog-post-workflow@forRST
+      - uses: vharivinay/blog-post-workflow
         with:
           feed_list: 'https://vharivinay.github.io/feed.xml'
-          readme_path: ./README.rst
+          readme_path: ./README.md
