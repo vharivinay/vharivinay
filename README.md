@@ -10,7 +10,6 @@ I have been working on a website for a little while now, its still work in progr
 ### [Postprocessing of topology optimized geometries](https://github.com/vharivinay/postprocessing-topopt)
 ---
 ## Some Interesting things I've done
-### [Maths and Scientific Computing](https://github.com/vharivinay/Python-projects)
 ### [Data processing, Exploratory data analysis and data visualization - Python](https://github.com/vharivinay/python-eda-viz)
 ### [Machine Learning, Deep learning and AI - Python](https://github.com/vharivinay/all-things-ML-DL-AI)
 ### [Android Development - Kotlin](https://github.com/vharivinay/android-dev-w-kotlin/)
