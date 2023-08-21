@@ -1,19 +1,27 @@
-### Hello there! 
+### Hello there!
 
-**I am Hari. I like to write code, make stuff and learn new things.** 
+**I am Hari. I like to write code, make stuff and learn new things.**
 
 I have been working on a website for a little while now, its still work in progress. Feel free to check it out.
 
-> [Link to website](https://vharivinay.github.io)
+> [Link to website](https://vharivinay.xyz)
 
 ## Graduate Thesis Code
+
 ### [Postprocessing of topology optimized geometries](https://github.com/vharivinay/postprocessing-topopt)
+
 ---
+
 ## Some Interesting things I've done
+
 ### [Data processing, Exploratory data analysis and data visualization - Python](https://github.com/vharivinay/python-eda-viz)
+
 ### [Machine Learning, Deep learning and AI - Python](https://github.com/vharivinay/all-things-ML-DL-AI)
+
 ### [Android Development - Kotlin](https://github.com/vharivinay/android-dev-w-kotlin/)
+
 ### [Processing in Python mode](https://github.com/vharivinay/learning-processing-py-mode)
+
 ### [P5.js Projects - JavaScript](https://github.com/vharivinay/Catalogue/blob/main/P5js-projects.md)
 
 ---
@@ -39,6 +47,7 @@ I have been working on a website for a little while now, its still work in progr
 ### 📕 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Bash Scripting](https://vharivinay.github.io/linux/bash_scripting/)
 - [Flocking Simulation](https://vharivinay.github.io/simulations/flocking/)
 - [Flow Field](https://vharivinay.github.io/generative/flowfiled/)
