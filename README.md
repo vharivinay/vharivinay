@@ -4,7 +4,7 @@
 
 I have been working on a website for a little while now, its still work in progress. Feel free to check it out.
 
-> [Link to website](https://vharivinay.xyz)
+> [Link to website](https://vharivinay.github.io)
 
 ## Graduate Thesis Code
 
