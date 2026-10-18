@@ -11,5 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@1.7.3
         with:
-          feed_list: 'https://vharivinay.github.io/feed.xml'
+          feed_list: 'https://vharivinay.xyz/feed.xml'
           readme_path: ./README.md
