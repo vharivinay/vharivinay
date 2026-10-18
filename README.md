@@ -2,63 +2,38 @@
 
 **I am Hari. I like to write code, make stuff and learn new things.**
 
-I have been working on a website for a little while now, its still work in progress. Feel free to check it out.
+I am a mechanical engineer working in deeptech, with a background in applied
+mechanics and simulation. Outside work, I build things to understand them:
+simulations, fractals, generative art and the odd tool.
 
-> [Link to website](https://vharivinay.github.io)
+Most of it ends up on my site, a catalogue of explorations: things built to
+understand something, not to ship something.
 
-## Graduate Thesis Code
-
-### [Postprocessing of topology optimized geometries](https://github.com/vharivinay/postprocessing-topopt)
-
----
-
-## Some Interesting things I've done
-
-### [Data processing, Exploratory data analysis and data visualization - Python](https://github.com/vharivinay/python-eda-viz)
-
-### [Machine Learning, Deep learning and AI - Python](https://github.com/vharivinay/all-things-ML-DL-AI)
-
-### [Android Development - Kotlin](https://github.com/vharivinay/android-dev-w-kotlin/)
-
-### [Processing in Python mode](https://github.com/vharivinay/learning-processing-py-mode)
-
-### [P5.js Projects - JavaScript](https://github.com/vharivinay/Catalogue/blob/main/P5js-projects.md)
+> **[vharivinay.xyz](https://vharivinay.xyz)**
 
 ---
 
-<div>
-<h2>Contacts and Socials</h2>
-<a href="mailto:vhari.vinay.2924@gmail.com">
-<img align="left" style="margin:10px" alt="vharivinay | Gmail" width="22px" src="icons/gmail.svg"/>
-</a>
-<a href="https://www.linkedin.com/in/vharivinay">
-<img align="left" style="margin:10px" alt="vharivinay | LinkedIn" width="22px" src="icons/LI-In-Bug.png"/>
-</a>
-<a href="https://www.youtube.com/channel/UCICL35fS_pE1Z_RKKspeXQw">
-<img align="left" style="margin:10px" alt="vharivinay | YouTube" width="22px" src="icons/youtube_social_circle_red.png"/>
-</a>
-<a href="https://vharivinay.github.io">
-<img align="left" style="margin:10px" alt="vharivinay | Blog" width="22px" src="icons/wordpress.svg"/>
-</a>
-</div><br><br>
+## Graduate Thesis
+
+### [Post-processing of topology optimized geometries](https://github.com/vharivinay/postprocessing-topopt)
+
+Turning 2D topology optimization output into smooth, CAD-ready geometry (MATLAB).
+[Write-up](https://vharivinay.xyz/explorations/graduate-thesis/)
+
+## Publications
+
+- **Topology Optimization of Ferromagnetic Core in Wireless Charging Systems with EMI Shielding: Modelling and Experimental Validation.** *IEEE Transactions on Magnetics*, 2026. [doi:10.1109/TMAG.2026.3675865](https://doi.org/10.1109/TMAG.2026.3675865)
+- **Introduction to Topology Optimization for the Design of High Voltage Insulators.** *Power Research – A Journal of CPRI*, 2023. [doi:10.33686/pwj.v19i2.1130](https://doi.org/10.33686/pwj.v19i2.1130)
 
 ---
+
+Write-ups and live demos of everything I build: **[vharivinay.xyz/explorations](https://vharivinay.xyz/explorations/)**
 
 ### 📕 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Bash Scripting](https://vharivinay.github.io/linux/bash_scripting/)
-- [Flocking Simulation](https://vharivinay.github.io/simulations/flocking/)
-- [Flow Field](https://vharivinay.github.io/generative/flowfiled/)
-- [Mandelbrot Set](https://vharivinay.github.io/generative/mandelbrot/)
-- [Julia Set](https://vharivinay.github.io/generative/julia_set_glsl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-[website]: https://naturalfreakuency.wordpress.com
-[instagram]: https://www.instagram.com/stranger_quark
-[Youtube]: https://www.youtube.com/channel/UCICL35fS_pE1Z_RKKspeXQw
-[linkedin]: https://www.linkedin.com/in/vharivinay
-[gmail]: mailto:vhari.vinay.2924@gmail.com
+**Contact:** [Email](mailto:vhari.vinay.2924@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vharivinay) · [YouTube](https://www.youtube.com/channel/UCICL35fS_pE1Z_RKKspeXQw) · [Website](https://vharivinay.xyz)
