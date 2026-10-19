@@ -32,6 +32,11 @@ Write-ups and live demos of everything I build: **[vharivinay.xyz/explorations](
 ### 📕 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Qtile Config](https://vharivinay.xyz/notes/qtile-config/)
+- [The Stack](https://vharivinay.xyz/notes/the-making/)
+- [Bash Scripting](https://vharivinay.xyz/notes/bash-scripting/)
+- [Flocking Simulation](https://vharivinay.xyz/explorations/flocking/)
+- [Flow Field](https://vharivinay.xyz/explorations/flow-field/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
